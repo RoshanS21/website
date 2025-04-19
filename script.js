@@ -1,4 +1,4 @@
 document.addEventListener("DOMContentLoaded", () => {
-    console.log("Website loaded with 3D effects!");
-    // Additional JavaScript for interactivity can be added here.
+    console.log("3D river animation loaded for Roshan Shrestha's website.");
+    // Additional interactivity can be added here if needed.
 });
