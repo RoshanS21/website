@@ -160,7 +160,7 @@ footer {
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
     background: none; /* Removed background */
     z-index: 1; /* Ensure it appears above the animation */
-    pointer-events: none; /* Prevent interaction with the animation */
+    /* pointer-events: none; */ /* Removed to enable hover effects */
 }
 
 .hover-effect {
