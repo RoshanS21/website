@@ -19,16 +19,19 @@ document.addEventListener('DOMContentLoaded', () => {
             'combine-s780', 'combine-x9', 'cotton-picker',
             
             // Planting & Spraying
-            'sprayer-r4060', 'seeder-1775nt',
+            'sprayer-r4060', 'seeder-1775nt', 'grain-cart', 'planter',
             
             // Technology
-            'gps-receiver', 'starfire-6000', 'display-4640',
+            'gps-receiver', 'starfire-6000', 'display-4640', 'data-sync',
             
             // Hand Tools
             'shovel', 'pitchfork', 'disc-harrow',
             
             // Crops
-            'corn', 'wheat', 'soybean', 'hay'
+            'corn', 'wheat', 'soybean', 'hay', 'cotton-bale',
+
+            // Others
+            'farmer'
         ];
         
         const type = types[Math.floor(Math.random() * types.length)];

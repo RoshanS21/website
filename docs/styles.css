@@ -404,6 +404,14 @@ body {
     background-image: url("images/seeder-1775nt.png");
 }
 
+.grain-cart {
+    background-image: url("images/grain-cart.png");
+}
+
+.planter {
+    background-image: url("images/planter.png");
+}
+
 /* GPS and Tech Equipment */
 .gps-receiver {
     background-image: url("images/gps-receiver.png");
@@ -415,6 +423,10 @@ body {
 
 .display-4640 {
     background-image: url("images/display-4640.png");
+}
+
+.data-sync {
+    background-image: url("images/data-sync.png");
 }
 
 /* Hand Tools */
@@ -445,4 +457,13 @@ body {
 
 .hay {
     background-image: url("images/hay.png");
+}
+
+.cotton-bale {
+    background-image: url("images/cotton-bale.png");
+}
+
+/* Others */
+.farmer {
+    background-image: url("images/farmer.png");
 }
