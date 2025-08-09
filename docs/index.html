@@ -6,16 +6,10 @@
     <title>Roshan Shrestha - Software Engineer</title>
     <link rel="stylesheet" href="styles.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
 </head>
 <body>
-    <div class="river-container">
-        <div class="river">
-            <video autoplay muted loop>
-                <source src="river.mp4" type="video/mp4">
-                Your browser does not support the video tag.
-            </video>
-        </div>
-    </div>
+    <div class="background-animation"></div>
     
     <div class="resume-container">
         <header class="resume-header">
@@ -41,22 +35,21 @@
             <h3>EDUCATION</h3>
             <div class="section-content">
                 <div class="education-item">
-                    <div class="edu-header">
+                    <div class="degree-header">
                         <h4>Bachelor of Science in Computer Science</h4>
-                        <span class="edu-date">May 2021</span>
+                        <span class="graduation-date">May 2021</span>
                     </div>
-                    <p>University of Texas at Arlington</p>
-                    <p>GPA: 3.8/4.0</p>
-                    <p class="coursework">Relevant Coursework: Robotics, Computational Theory, HCI, Theoretical CS, ML, Data Science, Computer Graphics, Computer Networks</p>
+                    <p class="edu-info">University of Texas at Arlington</p>
+                    <p class="edu-info">GPA: 3.8/4.0</p>
+                    <p class="edu-info coursework"><strong>Relevant Coursework:</strong> Robotics, Computational Theory, HCI, Theoretical CS, ML, Data Science, Computer Graphics, Computer Networks</p>
                 </div>
             </div>
         </section>
 
         <section class="resume-section">
             <h3>AREAS OF EXPERTISE</h3>
-            <div class="expertise-grid">
-                <p>Full SDLC | Embedded Systems | Hardware Testing & Debugging | UI Development | Cloud Integration | 
-                Data Analysis & Log Processing | CAN Protocol & Analysis | AWS Cloud Networking | Database Optimization</p>
+            <div class="section-content">
+                <p class="expertise-list">Full SDLC | Embedded Systems | Hardware Testing & Debugging | UI Development | Cloud Integration | Data Analysis & Log Processing | CAN Protocol & Analysis | AWS Cloud Networking | Database Optimization</p>
             </div>
         </section>
 
@@ -170,14 +163,51 @@
                         <li>Developed automation scripts for workflow optimization</li>
                     </ul>
                 </div>
+
+                <div class="experience-item">
+                    <div class="job-header">
+                        <h4>Aleks Omega</h4>
+                        <span class="job-location">Cedar Hill, TX</span>
+                        <span class="job-date">January – May 2021</span>
+                    </div>
+                    <p class="job-title">Software Engineering Intern</p>
+                    <ul>
+                        <li>Developed Bidding Estimator Tool using Python</li>
+                        <li>Implemented version control using Git</li>
+                        <li>Enhanced UI functionality and user experience</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <section class="resume-section">
+            <h3>LEADERSHIP</h3>
+            <div class="section-content">
+                <div class="experience-item">
+                    <div class="job-header">
+                        <h4>Nepalese Society Arlington</h4>
+                        <span class="job-location">Arlington, TX</span>
+                        <span class="job-date">January - September 2019</span>
+                    </div>
+                    <p class="job-title">International Student Mentor</p>
+                    <ul>
+                        <li>Guided new international students through their transition, offering transportation, advice, and support</li>
+                    </ul>
+                </div>
             </div>
         </section>
 
         <section class="resume-section">
             <h3>LANGUAGES & INTERESTS</h3>
-            <div class="section-content">
-                <p><strong>Languages:</strong> Fluent in Nepali & Hindi, A2 Spanish</p>
-                <p><strong>Interests:</strong> Gym, Tennis, Ping Pong, Soccer, Books, Hiking</p>
+            <div class="two-column-grid">
+                <div class="column">
+                    <h4>Languages</h4>
+                    <p>Fluent in Nepali & Hindi, A2 Spanish</p>
+                </div>
+                <div class="column">
+                    <h4>Interests</h4>
+                    <p>Gym, Tennis, Ping Pong, Soccer, Books, Hiking</p>
+                </div>
             </div>
         </section>
     </div>
