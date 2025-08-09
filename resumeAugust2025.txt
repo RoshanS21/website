@@ -1,0 +1,80 @@
+ROSHAN SHRESTHA
+Software Engineer | Product Development
+(817) 881-2489 | roshan.shrestha0621@gmail.com | Plano, TX
+linkedin.com/in/rstha0621 | github.com/RoshanS21
+
+-------------------------------------------------------------------------------
+PROFESSIONAL SUMMARY
+Embedded software engineer with 4+ years of experience in embedded system design, product development, and testing. Proficient in C, C++, Linux environments, and AWS cloud networking. Skilled in hardware testing, debugging, and system integration. Proven track record in developing and maintaining critical embedded firmware for John Deere's global fleet of agricultural systems, implementing industry standards and ensuring cross-manufacturer compatibility.
+
+Education
+UT Arlington Arlington, TX
+BS in Computer Science, GPA: 3.8/4.0 May 2021
+Relevant Coursework: Robotics. Computational Theory. HCI. Theoretical CS. ML. Data Science. Computer Graphics. Computer Networks.
+
+Areas of Expertise
+Full SDLC | Embedded Systems | Hardware Testing & Debugging | UI Development | Cloud Integration
+Data Analysis & Log Processing | CAN Protocol & Analysis | AWS Cloud Networking | Database Optimization
+
+Technical Skills
+Programming: C, C++, Qt, Python, SQL, Squish, Google Protobuf, SIL, HIL, TDD
+Embedded Systems: Embedded frameworks (Linux, freeRTOS)
+Cloud & Networking: AWS VPC, VPC Peering, Flow Logs, VPC Endpoints, S3 Integration
+Data Visualization: QGIS, CSV, Log Analysis, CAN Analyzer, Trace Client, Datadog, Elastic
+Protocols & Interfaces: CAN, MQTT, SPI, I2C, NFC, UART, GPIO, Wi-Fi, RFID
+Hardware Debugging: IDE, JTAG interfaces, TraceLogs, DebugDump, ErrorLogs, ISO Display Testing, RFID Diagnostics
+Microprocessors: ESP32-C6, Arduino boards, RaspberryPis
+Development Tools: Git, CoCo, Jenkins, ADO, Rally
+OS: Linux (VMware, VirtualBox, WSL), Windows
+
+Relevant Experience
+L&T Technology Services (Contractor for John Deere) | Plano, TX
+Software Engineer | April 2022 – Present
+● Spearheaded development of equipment profiles and plugins for John Deere's Gen4/Gen5/NGPD display systems, impacting the entire global fleet of tractors, sprayers, combines, and other agricultural machinery
+● Developed and maintained ISOBUS-compliant plugins enabling seamless integration between John Deere equipment and third-party implements (e.g., Brent Carts), ensuring cross-manufacturer compatibility and expanding market reach
+● Led comprehensive hardware testing and debugging initiatives, including:
+  - Conducted ISO display testing and analysis for system reliability
+  - Performed detailed analysis of debug dumps and trace dumps from displays
+  - Utilized CAN boxes for protocol testing and verification
+  - Implemented solutions for identified hardware defects through systematic debugging
+● Managed classification and integration of over 50,000 equipment models, developing critical data structures used by multiple applications for equipment identification, data logging, and operational parameters
+● Developed and maintained over 12 equipment plugins, significantly enhancing the versatility of John Deere's product line and enabling third-party implement support
+● Debugged critical field issues using Trace Client, log file analysis, CAN analysis, and QGIS visualization
+● Actively participated in daily standups and planning sessions with John Deere teams, contributing to release planning, backlog grooming, and continuous improvement initiatives
+● Collaborated with cross-functional teams to ensure real-time data synchronization between on-board displays and cloud platforms
+● Redesigned and optimized automated test suites, reducing execution time by several minutes per run, resulting in significant time savings across all John Deere development teams utilizing the mainline codebase
+
+L&T Technology Services | Plano, TX
+Software Engineer | August 2024 – Present
+● Developed embedded firmware for the ZekerIt system using Raspberry Pi and ESP32-C6-DevKitC-1-N8
+● Integrated RFID sensors, door locks, and security systems, implementing comprehensive access control solutions
+● Managed multiple communication protocols (I2C, SPI, UART, JTAG) with focus on RFID reader interfaces
+● Executed Board Services Program (BSP) using FreeRTOS and multithreading
+● Enabled Wi-Fi communication with servers and monitored hardware interaction including RFID authentication systems
+● Designed and implemented AWS networking infrastructure including:
+  - Built and configured Virtual Private Clouds (VPCs)
+  - Implemented VPC security and traffic flow controls
+  - Set up VPC peering and endpoint connections
+  - Configured monitoring using VPC Flow Logs
+  - Integrated S3 storage with VPC resources
+
+L&T Technology Services (Contractor for John Deere) | Peoria, IL
+SVG Team Lead August | 2021 – March 2022
+● Led a team of 6 engineers in transitioning from PNG to SVG UI assets
+● Streamlined codebase functionality and managed task prioritization
+● Developed automation scripts for workflow optimization
+
+Aleks Omega | Cedar Hill, TX
+Software Engineering Intern | January – May 2021
+● Developed Bidding Estimator Tool using Python
+● Implemented version control using Git
+● Enhanced UI functionality and user experience
+
+Leadership
+Nepalese Society Arlington | Arlington, TX
+International Student Mentor | January - September 2019
+● Guided new international students through their transition, offering transportation, advice, and support.
+
+Language Skills and Interests
+Languages: Fluent Nepali & Hindi. A2 Spanish.
+Interests: Gym, Tennis, Ping Pong, Soccer, Books, Hiking.
