@@ -28,7 +28,7 @@ document.addEventListener('DOMContentLoaded', () => {
             'shovel', 'pitchfork', 'disc-harrow',
             
             // Crops
-            'corn', 'wheat', 'soybean'
+            'corn', 'wheat', 'soybean', 'hay'
         ];
         
         const type = types[Math.floor(Math.random() * types.length)];
