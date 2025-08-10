@@ -41,23 +41,23 @@ document.addEventListener('DOMContentLoaded', () => {
         const movementType = Math.random();
         let duration, animation;
         
-        if (movementType < 0.6) {
+        if (movementType < 0.5) {
             // Vertical movement (more frequent)
             animation = 'move-vertical';
-            duration = 15 + Math.random() * 10; // 15-25 seconds
+            duration = 10 + Math.random() * 10; // 10-20 seconds
             equipment.style.left = `${Math.random() * 80 + 10}%`;
             // Start from top or bottom randomly
             equipment.style.top = Math.random() < 0.5 ? '-50px' : 'calc(100% + 50px)';
         } else if (movementType < 0.8) {
             // Horizontal movement
             animation = moveLeftToRight ? 'move-horizontal' : 'move-horizontal-reverse';
-            duration = 20 + Math.random() * 10; // 20-30 seconds
+            duration = 10 + Math.random() * 10; // 10-20 seconds
             equipment.style.top = `${Math.random() * 80 + 10}%`;
             equipment.style.left = moveLeftToRight ? '-50px' : 'calc(100% + 50px)';
         } else {
             // Spiral movement (faster)
             animation = movementType < 0.9 ? 'spiral-clockwise' : 'spiral-counterclockwise';
-            duration = 7 + Math.random() * 4; // 7-11 seconds
+            duration = 12 + Math.random() * 6; // 12-18 seconds
             equipment.style.left = '50%';
             equipment.style.top = '50%';
         }
